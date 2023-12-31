@@ -1,2 +1,4 @@
 git# day-3-task
-Today Task like different between HTTP/1.1 and HTTP/2
+1) how to compare two object json in javascript without order
+2) 2rest countriers
+3) print name region
